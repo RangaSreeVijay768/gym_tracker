@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAgXnehgQp8PQqTBsXrRUEPiq0AoWPGtWw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>261869984546</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.7dotss.beebloomGymTracker</string>
+	<key>PROJECT_ID</key>
+	<string>beebloom-gym-tracker</string>
+	<key>STORAGE_BUCKET</key>
+	<string>beebloom-gym-tracker.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:261869984546:ios:fdc51c36fa0b08bb53a37b</string>
+</dict>
+</plist>

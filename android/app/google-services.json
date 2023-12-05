@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "261869984546",
+    "project_id": "beebloom-gym-tracker",
+    "storage_bucket": "beebloom-gym-tracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261869984546:android:fd85bb52de7d03a953a37b",
+        "android_client_info": {
+          "package_name": "com.u7dotss.beebloom_gym_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAQIicm8yDSmMOdwQkGc7oSUNn_jbiIhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
